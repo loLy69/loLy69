@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/niggats">Telegram</a>
+  <a href="https://t.me/nigGats9">Telegram</a>
   ·
   <a href="mailto:viculence@yahoo.com">Contact my manager</a>
 </p>
@@ -124,6 +124,5 @@ Telegram bot for tracking planned and completed purchases using natural text inp
 
 I am open to freelance projects involving Python backend development, Telegram bots and business automation.
 
-- Dmitry — Telegram: [@niggats](https://t.me/niggats)
+- Dmitry — Telegram: [@nigGats9](https://t.me/nigGats9)
 - Victoria, project manager — Email: [viculence@yahoo.com](mailto:viculence@yahoo.com)
-
