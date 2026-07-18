@@ -83,7 +83,7 @@ Telegram bot template for schools, educational centres and tutors. Supports cour
 
 **Stack:** Python, aiogram 3, SQLite, aiohttp, Docker
 
-[View repository →](https://github.com/loLy69/st-bot)
+[View repository →](https://github.com/loLy69/mindspark-school-bot)
 
 ---
 
@@ -93,7 +93,7 @@ Telegram bot for tracking planned and completed purchases using natural text inp
 
 **Stack:** Python, aiogram 3, SQLite
 
-[View repository →](https://github.com/loLy69/bot)
+[View repository →](https://github.com/loLy69/spendnote-telegram-bot)
 
 ## Services
 
